@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "face-blur-ai"
+version = "0.1.0"
+description = ""
+authors = ["Mst.Sadia Khatun <sadiasultana4444a@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
